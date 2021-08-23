@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\LearnProgramluanc\\visaul Studio\\delete\\oneDay\\oneDay.csproj": {}
+    "F:\\LearnProgramluanc\\visaul Studio\\GetGitHub\\oneDay\\oneDay.csproj": {}
   },
   "projects": {
-    "F:\\LearnProgramluanc\\visaul Studio\\delete\\oneDay\\oneDay.csproj": {
+    "F:\\LearnProgramluanc\\visaul Studio\\GetGitHub\\oneDay\\oneDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\LearnProgramluanc\\visaul Studio\\delete\\oneDay\\oneDay.csproj",
+        "projectUniqueName": "F:\\LearnProgramluanc\\visaul Studio\\GetGitHub\\oneDay\\oneDay.csproj",
         "projectName": "oneDay",
-        "projectPath": "F:\\LearnProgramluanc\\visaul Studio\\delete\\oneDay\\oneDay.csproj",
+        "projectPath": "F:\\LearnProgramluanc\\visaul Studio\\GetGitHub\\oneDay\\oneDay.csproj",
         "packagesPath": "C:\\Users\\XU\\.nuget\\packages\\",
-        "outputPath": "F:\\LearnProgramluanc\\visaul Studio\\delete\\oneDay\\obj\\",
+        "outputPath": "F:\\LearnProgramluanc\\visaul Studio\\GetGitHub\\oneDay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XU\\AppData\\Roaming\\NuGet\\NuGet.Config",
