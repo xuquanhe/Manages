@@ -7,6 +7,7 @@ namespace oneDay
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+	    Console.Writeline("有问题");
         }
     }
 }
